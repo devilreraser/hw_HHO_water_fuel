@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: HHOLowCost.PcbDoc   15.3.2014 ã.  17:18:52
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : HHOLowCost-Plated.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.7mm (27.559mil)        Round          429              1002.51 mm (39.47 Inch)
+T2        0.8mm (31.496mil)        Round          5                10.15 mm (0.40 Inch)
+T3        0.9mm (35.433mil)        Round          3                5.05 mm (0.20 Inch)
+T4        1mm (39.37mil)           Round          10               72.99 mm (2.87 Inch)
+T5        1.6mm (62.992mil)        Round          5                62.44 mm (2.46 Inch)
+T6        3mm (118.11mil)          Round          4                178.98 mm (7.05 Inch)
+---------------------------------------------------------------------------
+Totals                                            456              1332.12 mm (52.45 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

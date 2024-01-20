@@ -1,0 +1,55 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+D2         SOT-23_2_PIN         4.5275mm     -16.509mm       3.575mm     -17.525mm        5.48mm     -17.525mm  T        360.00 5V1            
+D3         SOT-23_2_PIN          8.559mm    -15.1975mm       9.575mm      -16.15mm       9.575mm      -16.15mm  T         90.00 5V1            
+C8         0805                  32.85mm     -37.925mm          34mm     -37.925mm          34mm     -37.925mm  T        180.00 1uF            
+J9         HD_11MM_1P            57.35mm        -8.2mm       57.35mm        -8.2mm       57.35mm        -8.2mm  T         90.00 CON1           
+J5         HD-351_2P               0.7mm       -17.1mm         0.7mm      -15.35mm         0.7mm      -15.35mm  T        270.00 CON2           
+J6         HD-351_1P             0.725mm     -11.875mm       0.725mm     -11.875mm       0.725mm     -11.875mm  T         90.00 CON1           
+R21        0805                 36.775mm      -38.95mm      36.775mm       -37.8mm      36.775mm       -37.8mm  T        270.00 100            
+C4         0805                  26.75mm     -37.925mm        27.9mm     -37.925mm        27.9mm     -37.925mm  T        180.00 10uF           
+C3         0805                 21.475mm      -37.95mm      20.325mm      -37.95mm      20.325mm      -37.95mm  T        360.00 22uF           
+U2         SOIC20WIDE              9.5mm     -28.025mm       3.775mm      -32.85mm       3.775mm      -32.85mm  T         90.00 PIC16F1828     
+R8         0603_RES              21.05mm     -29.975mm       21.05mm     -29.975mm       21.05mm     -30.775mm  T         90.00 100k           
+R16        0603_RES               4.35mm     -11.875mm        4.35mm     -11.875mm        5.15mm     -11.875mm  T        180.00 220k           
+R17        0603_RES                7.6mm     -12.725mm         7.6mm     -12.725mm         8.4mm     -12.725mm  T        180.00 100k           
+R19        0603_RES              4.725mm      -8.575mm       4.725mm      -8.575mm       5.525mm      -8.575mm  T        180.00 1k             
+R6         0603_RES              46.45mm     -29.325mm       46.45mm     -29.325mm       45.65mm     -29.325mm  T        360.00 1k             
+R15        2512                  49.05mm     -31.525mm       49.05mm     -28.425mm       49.05mm     -28.425mm  T        270.00 0.001          
+R12        0603_RES              42.65mm       -29.4mm       42.65mm       -29.4mm       42.65mm       -30.2mm  T         90.00 10k            
+R11        0603_RES               43.5mm      -26.95mm        43.5mm      -26.95mm        42.7mm      -26.95mm  T        360.00 10             
+R10        0603                  23.55mm     -30.775mm       23.55mm     -30.775mm       22.75mm     -30.775mm  T        360.00 10k            
+R4         0603_RES                3.7mm       -13.8mm         3.7mm       -13.8mm         4.5mm       -13.8mm  T        180.00 1k             
+R7         0603_RES              5.475mm      -19.65mm       5.475mm      -19.65mm       5.475mm      -18.85mm  T        270.00 100k           
+R9         0603                 32.625mm      -33.15mm      32.625mm      -33.15mm      32.625mm      -32.35mm  T        270.00 10k            
+R5         0603_RES               46.4mm      -31.75mm        46.4mm      -31.75mm        45.6mm      -31.75mm  T        360.00 1k             
+Q3         SOT-23               39.484mm    -29.2975mm        40.5mm      -30.25mm        40.5mm      -30.25mm  T         90.00 PNP BC807      
+Q2         SOT-23               26.841mm    -31.7275mm      25.825mm     -30.775mm      25.825mm     -30.775mm  T        270.00 NPN BC817      
+J3         SIP2                      0mm      -8.575mm       1.275mm      -8.575mm       1.275mm      -8.575mm  T        180.00 LED CELL       
+J2         HD_11MM_1P             58.5mm      -35.05mm        58.5mm      -35.05mm        58.5mm      -35.05mm  T        270.00 CON1           
+J1         SIP5_-_PGM            0.525mm     -27.025mm       0.525mm       -32.1mm       0.525mm       -32.1mm  T         90.00 CON5           
+C12        0603_CAP                7.6mm     -11.025mm         7.6mm     -11.025mm         6.8mm     -11.025mm  T        360.00 1nF            
+C9         0603_CAP              3.575mm      -19.65mm       3.575mm      -19.65mm       3.575mm      -20.45mm  T         90.00 1nF            
+C11        0603_CAP             20.775mm     -35.225mm      20.775mm     -35.225mm      19.975mm     -35.225mm  T        360.00 100nF          
+C14        0805                  36.25mm     -28.125mm       36.25mm     -29.275mm       36.25mm     -29.275mm  T         90.00 10uF           
+C10        0603_CAP              23.15mm     -34.425mm       23.15mm     -34.425mm       23.15mm     -33.625mm  T        270.00 100nF          
+Q4         D2-PACK_-_7            50.1mm    -21.1125mm        50.1mm      -26.95mm      46.275mm      -26.95mm  T         90.00 MOSFET N       
+Q1         SOT-23              39.5525mm     -25.934mm        38.6mm      -26.95mm        38.6mm      -26.95mm  T        360.00 NPN BC817      
+R18        0603_RES               46.4mm     -34.625mm        46.4mm     -34.625mm        45.6mm     -34.625mm  T        360.00 1k             
+S1         TACTBUT              14.975mm     -37.575mm        11.8mm      -35.35mm        11.8mm      -35.35mm  T        360.00 SW SPST        
+S2         TACTBUT               4.175mm      -37.55mm           1mm     -35.325mm        7.35mm     -35.325mm  T        360.00 SW SPST        
+U1         SO-8_VOLTREG         23.125mm     -41.975mm      20.325mm     -40.075mm      25.925mm     -40.075mm  T        360.00 LM78L05        
+U4         SO-8_VOLTREG           31.2mm         -42mm        28.4mm       -40.1mm          34mm       -40.1mm  T        360.00 LM78L12        
+R20        1225                 50.775mm    -30.5125mm      50.775mm      -29.15mm      50.775mm      -29.15mm  T        270.00 0.001          
+D4         SMA_+_SOT23          39.725mm     -39.475mm      39.725mm     -37.475mm      38.775mm     -40.425mm  T        270.00 DIODE          
+J7         HD-351_1P              43.3mm      -41.75mm        43.3mm      -41.75mm        43.3mm      -41.75mm  T        180.00 CON1           
+Q6         SOT-23              43.2975mm     -38.491mm       44.25mm     -37.475mm       44.25mm     -37.475mm  T        180.00 MOSFET P       
+J8         SIP3                    9.6mm     -37.875mm         9.6mm       -40.4mm         9.6mm       -40.4mm  T         90.00 CON3           
+Q5         SOT-23               13.766mm    -16.8775mm       12.75mm     -15.925mm       12.75mm     -15.925mm  T        270.00 (OPT)NPN BC817 
+R1         0805                 12.275mm      -4.775mm      13.425mm      -4.775mm      13.425mm      -4.775mm  T        180.00 (OPT)470k      
+R2         0603                   12.8mm      -6.925mm        12.8mm      -6.925mm        13.6mm      -6.925mm  T        180.00 (OPT)100k      
+R3         0603                  12.65mm      -20.45mm       12.65mm      -20.45mm       13.45mm      -20.45mm  T        180.00 (OPT)2k2       
+J4         HD-351_1P             0.725mm      -4.775mm       0.725mm      -4.775mm       0.725mm      -4.775mm  T        270.00 CON1           
+C2         0603_CAP               12.8mm       -8.75mm        12.8mm       -8.75mm        13.6mm       -8.75mm  T        180.00 (OPT)1nF       
+R13        0805                  6.225mm      -4.775mm       7.375mm      -4.775mm       7.375mm      -4.775mm  T        180.00 (OPT)470k      
+

@@ -1,0 +1,16 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Project [HHOLowCost.PRJPCB]
+   Generated File[HHOLowCost.GTL]
+   Generated File[HHOLowCost.GBL]
+   Generated File[HHOLowCost.GTS]
+   Generated File[HHOLowCost.GBS]
+   Generated File[HHOLowCost.GKO]
+   Generated File[HHOLowCost.RUL]
+   Generated File[HHOLowCost.REP]
+
+
+Files Generated   : 7
+Documents Printed : 0
+
+Finished Output Generation At 14:59:56 On 29.11.2011 ã.

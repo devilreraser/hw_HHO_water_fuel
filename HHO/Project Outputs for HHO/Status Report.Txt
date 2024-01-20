@@ -1,0 +1,16 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Project [HHO.PRJPCB]
+   Generated File[HHO.GTL]
+   Generated File[HHO.GBL]
+   Generated File[HHO.GTS]
+   Generated File[HHO.GBS]
+   Generated File[HHO.GKO]
+   Generated File[HHO.RUL]
+   Generated File[HHO.REP]
+
+
+Files Generated   : 7
+Documents Printed : 0
+
+Finished Output Generation At 08:43:56 On 25.5.2011 ã.

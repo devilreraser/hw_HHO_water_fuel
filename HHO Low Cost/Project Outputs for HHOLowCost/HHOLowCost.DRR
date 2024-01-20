@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: HHOLowCost.PcbDoc   29.11.2011 ã.  14:57:20
+---------------------------------------------------------------------------
+
+
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII File : NCDrillOutput.TXT
+EIA File   : NCDrillOutput.DRL
+
+Tool         Hole Size          Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.7mm (27.559mil)        427              1115.03 mm (43.90 Inch)
+T2        0.8mm (31.496mil)        5                59.18 mm (2.33 Inch)
+T3        0.9mm (35.433mil)        3                64.78 mm (2.55 Inch)
+T4        1mm (39.37mil)           10               120.54 mm (4.75 Inch)
+T5        1.6mm (62.992mil)        5                156.45 mm (6.16 Inch)
+T6        3mm (118.11mil)          4                297.44 mm (11.71 Inch)
+---------------------------------------------------------------------------
+Totals                             454              1813.42 mm (71.39 Inch)
+
+Total Processing Time : 00:00:05
